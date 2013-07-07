@@ -2,9 +2,9 @@
 <merger xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" >
 
     <dataSet config="main" >
-        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res" >
+        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res" >
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__ids.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__ids.xml"
                 qualifiers="" >
                 <item
                     name="abs__progress_horizontal"
@@ -26,7 +26,7 @@
                     type="id"/>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__bools.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__bools.xml"
                 qualifiers="" >
                 <bool name="abs__action_bar_embed_tabs" >
 false
@@ -39,7 +39,7 @@ true
                 </bool>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__themes.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__themes.xml"
                 qualifiers="" >
 
                 <style
@@ -547,7 +547,7 @@ true
                 </style>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__styles.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__styles.xml"
                 qualifiers="" >
 
                 <style
@@ -1527,7 +1527,7 @@ center
                 </style>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__colors.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__colors.xml"
                 qualifiers="" >
                 <color name="abs__bright_foreground_holo_light" >@color/abs__background_holo_dark
                 </color>
@@ -1543,7 +1543,7 @@ center
                 </color>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__dimens.xml"
                 qualifiers="" >
                 <dimen name="abs__action_bar_default_height" >48dip
                 </dimen>
@@ -1576,7 +1576,7 @@ center
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__attrs.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__attrs.xml"
                 qualifiers="" >
                 <declare-styleable name="SherlockSearchView" >
 
@@ -2252,7 +2252,7 @@ center
                 </declare-styleable>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__config.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__config.xml"
                 qualifiers="" >
                 <bool name="abs__config_actionMenuItemAllCaps" >
 true
@@ -2268,7 +2268,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values/abs__strings.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values/abs__strings.xml"
                 qualifiers="" >
                 <string name="abs__searchview_description_query" >Search query
                 </string>
@@ -2303,136 +2303,136 @@ false
             </file>
             <file
                 name="abs__btn_cab_done_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__btn_cab_done_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__btn_cab_done_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__search_dropdown_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__search_dropdown_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__search_dropdown_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__list_selector_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__list_selector_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_background_transition_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__list_selector_background_transition_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__textfield_searchview_right_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__textfield_searchview_right_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__textfield_searchview_right_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__textfield_searchview_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__activated_background_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__activated_background_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__activated_background_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_horizontal_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__progress_horizontal_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__progress_horizontal_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__btn_cab_done_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__btn_cab_done_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__tab_indicator_ab_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__tab_indicator_ab_holo.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__tab_indicator_ab_holo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_medium_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__progress_medium_holo.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__progress_medium_holo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__textfield_searchview_right_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__textfield_searchview_right_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__textfield_searchview_right_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__textfield_searchview_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__textfield_searchview_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_clear_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__ic_clear_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__ic_clear_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__list_selector_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__list_selector_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__search_dropdown_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__search_dropdown_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__search_dropdown_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__item_background_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__item_background_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__item_background_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__spinner_ab_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__spinner_ab_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__spinner_ab_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__item_background_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__item_background_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__item_background_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__ic_menu_moreoverflow_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__list_selector_background_transition_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__list_selector_background_transition_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__list_selector_background_transition_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__activated_background_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__activated_background_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__activated_background_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__spinner_ab_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__spinner_ab_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__spinner_ab_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__ic_clear"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__ic_clear.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__ic_clear.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abs__progress_horizontal_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable/abs__progress_horizontal_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable/abs__progress_horizontal_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-large-land-hdpi-1024x600/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-large-land-hdpi-1024x600/abs__dimens.xml"
                 qualifiers="large-land-hdpi-1024x600" >
                 <dimen name="abs__action_bar_title_text_size" >16dp
                 </dimen>
@@ -2448,7 +2448,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-w600dp/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-w600dp/abs__dimens.xml"
                 qualifiers="w600dp" >
                 <integer name="abs__max_action_buttons" >
 5
@@ -2456,38 +2456,38 @@ false
             </file>
             <file
                 name="abs__action_mode_close_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout-large/abs__action_mode_close_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout-large/abs__action_mode_close_item.xml"
                 qualifiers="large"
                 type="layout" />
             <file
                 name="abs__primary_text_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/color/abs__primary_text_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/color/abs__primary_text_holo_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_disable_only_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_light.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_light.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/color/abs__primary_text_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/color/abs__primary_text_holo_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abs__primary_text_disable_only_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_dark.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_dark.xml"
                 qualifiers=""
                 type="color" />
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-sw600dp/abs__bools.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-sw600dp/abs__bools.xml"
                 qualifiers="sw600dp" >
                 <bool name="abs__action_bar_expanded_action_views_exclusive" >
 false
                 </bool>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-sw600dp/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-sw600dp/abs__dimens.xml"
                 qualifiers="sw600dp" >
                 <dimen name="abs__action_button_min_width" >64dip
                 </dimen>
@@ -2510,7 +2510,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-w500dp/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-w500dp/abs__dimens.xml"
                 qualifiers="w500dp" >
                 <integer name="abs__max_action_buttons" >
 4
@@ -2518,446 +2518,446 @@ false
             </file>
             <file
                 name="abs__textfield_search_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_voice_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_voice_search.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_cab_done_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_divider_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_go.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_go.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_search.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_48_outer_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_share_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_voice_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_voice_search_api_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_search_api_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_focused_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_activated_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_activated_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_commit_search_api_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_commit_search_api_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_cab_done_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_disabled"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_disabled.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_disabled.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_selected_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_primary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_default_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_normal"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_normal.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_normal.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_commit_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_commit_search_api_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__toast_frame"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__toast_frame.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__toast_frame.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_go_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_go_search_api_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_selected_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_bg_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_longpressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__tab_selected_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__spinner_48_inner_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_secondary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__list_divider_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_top_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_ab_back_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_primary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_search_api_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__progress_bg_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ab_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_share_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-hdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="abs__screen_action_bar"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout-xlarge/abs__screen_action_bar.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout-xlarge/abs__screen_action_bar.xml"
                 qualifiers="xlarge"
                 type="layout" />
             <file
                 name="abs__screen_action_bar_overlay"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout-xlarge/abs__screen_action_bar_overlay.xml"
                 qualifiers="xlarge"
                 type="layout" />
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-v11/abs__themes.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-v11/abs__themes.xml"
                 qualifiers="v11" >
 
                 <style
@@ -2983,7 +2983,7 @@ false
                 </style>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-land/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-land/abs__dimens.xml"
                 qualifiers="land" >
                 <dimen name="abs__action_bar_icon_vertical_padding" >4dip
                 </dimen>
@@ -2999,7 +2999,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-w360dp/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-w360dp/abs__dimens.xml"
                 qualifiers="w360dp" >
                 <integer name="abs__max_action_buttons" >
 3
@@ -3007,561 +3007,561 @@ false
             </file>
             <file
                 name="abs__list_menu_item_radio"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__list_menu_item_radio.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__list_menu_item_radio.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_tab"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_bar_tab.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_bar_tab.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__search_dropdown_item_icons_2line"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__search_dropdown_item_icons_2line.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__search_dropdown_item_icons_2line.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sherlock_spinner_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/sherlock_spinner_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/sherlock_spinner_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_icon"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__list_menu_item_icon.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__list_menu_item_icon.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_title_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_bar_title_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_bar_title_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_mode_bar"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_mode_bar.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_mode_bar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__simple_dropdown_hint"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__simple_dropdown_hint.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__simple_dropdown_hint.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sherlock_spinner_dropdown_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/sherlock_spinner_dropdown_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_simple"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__screen_simple.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__screen_simple.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_mode_close_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_mode_close_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_mode_close_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_menu_item_layout"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_menu_item_layout.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__search_view"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__search_view.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__search_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__popup_menu_item_layout"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__popup_menu_item_layout.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__popup_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_simple_overlay_action_mode"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__screen_simple_overlay_action_mode.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__screen_simple_overlay_action_mode.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_home"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_bar_home.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_bar_home.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_menu_layout"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_menu_layout.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_menu_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__action_bar_tab_bar_view"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__action_bar_tab_bar_view.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__action_bar_tab_bar_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__activity_chooser_view_list_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__activity_chooser_view_list_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__activity_chooser_view_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__activity_chooser_view"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__activity_chooser_view.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__activity_chooser_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_action_bar"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__screen_action_bar.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__screen_action_bar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__list_menu_item_checkbox"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__list_menu_item_checkbox.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__list_menu_item_checkbox.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abs__screen_action_bar_overlay"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout/abs__screen_action_bar_overlay.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout/abs__screen_action_bar_overlay.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sherlock_spinner_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout-v14/sherlock_spinner_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout-v14/sherlock_spinner_item.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
                 name="sherlock_spinner_dropdown_item"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/layout-v14/sherlock_spinner_dropdown_item.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/layout-v14/sherlock_spinner_dropdown_item.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
                 name="abs__textfield_search_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_voice_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_voice_search.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_go.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_go.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_search.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_voice_search_api_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_search_api_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_focused_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_activated_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_activated_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_disabled"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_disabled.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_disabled.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_normal"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_normal.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_normal.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_commit_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_commit_search_api_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__toast_frame"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__toast_frame.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__toast_frame.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_go_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_go_search_api_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__tab_selected_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_search_api_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-mdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-v14/abs__themes.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-v14/abs__themes.xml"
                 qualifiers="v14" >
 
                 <style
@@ -3619,7 +3619,7 @@ true
                 </style>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-v14/abs__styles.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-v14/abs__styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -3878,7 +3878,7 @@ true
                 </style>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-large-hdpi-1024x600/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-large-hdpi-1024x600/abs__dimens.xml"
                 qualifiers="large-hdpi-1024x600" >
                 <dimen name="abs__action_bar_subtitle_bottom_margin" >5dip
                 </dimen>
@@ -3894,7 +3894,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-large-mdpi-1024x600/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-large-mdpi-1024x600/abs__dimens.xml"
                 qualifiers="large-mdpi-1024x600" >
                 <dimen name="abs__action_button_min_width" >64dip
                 </dimen>
@@ -3912,7 +3912,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-xlarge/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-xlarge/abs__dimens.xml"
                 qualifiers="xlarge" >
                 <item
                     name="abs__dialog_min_width_minor"
@@ -3943,7 +3943,7 @@ true
                 </dimen>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-w480dp/abs__bools.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-w480dp/abs__bools.xml"
                 qualifiers="w480dp" >
                 <bool name="abs__split_action_bar_is_narrow" >
 false
@@ -3953,7 +3953,7 @@ true
                 </bool>
             </file>
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-w480dp/abs__config.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-w480dp/abs__config.xml"
                 qualifiers="w480dp" >
                 <bool name="abs__config_allowActionMenuItemTextWithIcon" >
 true
@@ -3961,436 +3961,436 @@ true
             </file>
             <file
                 name="abs__progress_medium_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-v11/abs__progress_medium_holo.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-v11/abs__progress_medium_holo.xml"
                 qualifiers="v11"
                 type="drawable" />
             <file
                 name="abs__textfield_search_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_voice_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_voice_search.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_cab_done_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_cab_done_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_divider_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_divider_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_go.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_go.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_search.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_search.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_outer_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_48_outer_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_48_outer_holo.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_share_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_voice_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_voice_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_voice_search_api_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__menu_dropdown_panel_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_shadow_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_search_api_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_focused_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_focused_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_focused_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_focused_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_activated_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_activated_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_activated_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_commit_search_api_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_commit_search_api_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_cab_done_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_cab_done_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_disabled"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_disabled.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_disabled.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_selected_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_ab_back_holo_dark.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_ab_back_holo_dark.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_primary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_primary_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_bottom_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_default_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_default_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_default_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_commit_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_commit_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_commit_search_api_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__toast_frame"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__toast_frame.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__toast_frame.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_right_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_go_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_go_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_go_search_api_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_transparent_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_selected_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_selected_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__textfield_search_selected_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_selected_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__textfield_search_selected_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_moreoverflow_normal_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_ab_disabled_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_pressed_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_clear_search_api_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_search_api_disabled_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_bg_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_bg_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_share_pack_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_unselected_pressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_selector_disabled_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_longpressed_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_longpressed_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_longpressed_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__tab_selected_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__tab_selected_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__spinner_48_inner_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_48_inner_holo.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__spinner_48_inner_holo.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_secondary_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_secondary_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_secondary_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__list_divider_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__list_divider_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__list_divider_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_inverse_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_stacked_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__cab_background_top_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__cab_background_top_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_ab_back_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_ab_back_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_ab_back_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_primary_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_primary_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_primary_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_bottom_solid_dark_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_solid_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_solid_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_search_api_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_search_api_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_search_api_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__btn_cab_done_focused_holo_dark"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__progress_bg_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__progress_bg_holo_light.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__progress_bg_holo_light.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ab_transparent_light_holo"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ab_transparent_light_holo.9.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ab_transparent_light_holo.9.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="abs__ic_menu_share_holo_light"
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_share_holo_light.png"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/drawable-xhdpi/abs__ic_menu_share_holo_light.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
-                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/res/values-large-land-mdpi-1024x600/abs__dimens.xml"
+                path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/res/values-large-land-mdpi-1024x600/abs__dimens.xml"
                 qualifiers="large-land-mdpi-1024x600" >
                 <dimen name="abs__action_bar_default_height" >48dip
                 </dimen>
@@ -4406,10 +4406,10 @@ true
                 </dimen>
             </file>
         </source>
-        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/build/res/rs/debug" />
+        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarSherlock/actionbarsherlock/src/debug/res" />
+        <source path="/home/johnkang/sourceCode/MyVLCProject/lib/ActionBarShareLock/actionbarsherlock/src/debug/res" />
     </dataSet>
 
 </merger>
